@@ -10,4 +10,5 @@ class TestSam{
 public interface SAMExample{
     public int loop(int i);
     //comment
+    //another comment
 }
