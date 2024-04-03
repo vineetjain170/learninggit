@@ -12,7 +12,11 @@ public interface SAMExample{
     //comment
     //another comment
 <<<<<<< HEAD
+<<<<<<< HEAD
     //branch1
+=======
+    //branch2
+>>>>>>> 3e8b77f (testing1)
 =======
     //branch2
 >>>>>>> 3e8b77f (testing1)
