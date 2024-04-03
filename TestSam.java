@@ -11,5 +11,9 @@ public interface SAMExample{
     public int loop(int i);
     //comment
     //another comment
+<<<<<<< HEAD
     //branch1
+=======
+    //branch2
+>>>>>>> 3e8b77f (testing1)
 }
