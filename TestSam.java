@@ -9,6 +9,14 @@ class TestSam{
 }
 public interface SAMExample{
     public int loop(int i);
-    //comment
-    //another comment
+    //rebase1
+<<<<<<< HEAD
+    //rebase12
+=======
+    //rebase2
+<<<<<<< HEAD
+>>>>>>> 33b755d (rebase2)
+=======
+    //rebase21
+>>>>>>> a3f9624 (rebase2)
 }
