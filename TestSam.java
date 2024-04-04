@@ -14,5 +14,9 @@ public interface SAMExample{
     //rebase12
 =======
     //rebase2
+<<<<<<< HEAD
 >>>>>>> 33b755d (rebase2)
+=======
+    //rebase21
+>>>>>>> a3f9624 (rebase2)
 }
