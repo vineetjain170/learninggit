@@ -22,4 +22,5 @@ public interface SAMExample{
 >>>>>>> //abcd
 >>>>>>> //pushing example
 >>>>>>> //qwerty
+>>>>>>> //testing set upstream to
 }
