@@ -21,4 +21,5 @@ public interface SAMExample{
 >>>>>>> a3f9624 (rebase2)
 >>>>>>> //abcd
 >>>>>>> //pushing example
+>>>>>>> //qwerty
 }
