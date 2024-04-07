@@ -19,6 +19,10 @@ public interface SAMExample{
 =======
     //rebase21
 >>>>>>> a3f9624 (rebase2)
+<<<<<<< HEAD
 >>>>>>> //abcd
 >>>>>>> //pushing example
+=======
+>>>>>>> //testing cherry picking
+>>>>>>> 221877b (commit 1 testing cherry picking)
 }
