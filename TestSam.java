@@ -22,8 +22,12 @@ public interface SAMExample{
 <<<<<<< HEAD
 >>>>>>> //abcd
 >>>>>>> //pushing example
+<<<<<<< HEAD
 =======
 >>>>>>> //testing cherry picking
 >>>>>>> 221877b (commit 1 testing cherry picking)
 >>>>>>> //testing git diff
+=======
+>>>>>>> //qwerty
+>>>>>>> def2059 (Revert "test set upstream to")
 }
