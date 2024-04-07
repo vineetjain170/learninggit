@@ -25,4 +25,5 @@ public interface SAMExample{
 =======
 >>>>>>> //testing cherry picking
 >>>>>>> 221877b (commit 1 testing cherry picking)
+>>>>>>> //testing git diff
 }
