@@ -37,4 +37,5 @@ public interface SAMExample{
 >>>>>>> //qwerty
 >>>>>>> //testing set upstream to
 >>>>>>> 929408dbd113838027dfe6ace75bef9fd6ba22bb
+>>>>>>> //testing git pull request
 }
